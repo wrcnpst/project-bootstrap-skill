@@ -4,7 +4,7 @@ A portable Codex skill for initializing project memory and a local Git baseline 
 
 ## Install on another machine
 
-Sign in to GitHub with an account that can access this private repository, and configure Git authentication. In Codex, ask:
+In Codex, ask:
 
 > Use skill-installer to install `skills/project-bootstrap` from `wrcnpst/project-bootstrap-skill`.
 
